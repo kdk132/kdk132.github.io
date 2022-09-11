@@ -22,67 +22,36 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Principal Staff - Robotics
+      institution: Johns Hopkins University Applied Physics Lab, Laurel, MD
+      year: 2007 - 2021, 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Principal Investigator on several AI, deep learning, reinforcement learning and perception-based robotics projects related to navigation and manipulation.
+        - Project Manager and Technical Lead on retinal prosthetic device that uses computer vision, machine learning and eye tracking algorithms to restore vision to blind individuals.
+        - Researched visual odometry and SLAM algorithms for robotic and retinal prosthetic applications.
+        - Led embedded software development team spanning multiple organizations to develop a highly dexterous robotic manipulator for the Revolutionizing Prosthetics program sponsored by DARPA.
+    - title: Advanced Robotics Perception Manager
+      institution: Amazon Robotics, N. Reading, MA
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Manager of robotic perception team composed of applied scientists and software development engineers.
+        - Team focus on developing research and development capabilities for robot manipulation including classification, segmentation, object pose estimation in clutter, sensor calibration, multimodal item understanding and grasp planning.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Robotics/Perception
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - High Speed Navigation
+        - Manipulation in Clutter
+        - Complex Terrain Navigation
+        - Action Recognition
+        - Domain Adaptation
+        - Lifelong Learning
+    - 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Running, Carpentry
