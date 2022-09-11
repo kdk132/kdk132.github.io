@@ -2,32 +2,23 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Kapil Katyal
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Computer Science
+      institution: Johns Hopkins University, Baltimore, MD
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+        - Thesis title: Integrating Perception, Prediction and Control for Adaptive Mobile Navigation
+        - Advisor: Professor Greg Hager
+    - title: MS, Electrical Engineering
+      institution: Columbia University, New York, NY
+    - title: BS, Computer Science
+      institution: Pennsylvania State University, University Park, PA
+      
 - title: Experience
   type: time_table
   contents:
