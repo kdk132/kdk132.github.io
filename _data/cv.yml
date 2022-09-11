@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Kapil Katyal
+      value: Kapil D. Katyal
     - name: Languages
       value: English
 
@@ -12,8 +12,8 @@
     - title: PhD, Computer Science
       institution: Johns Hopkins University, Baltimore, MD
       description:
-        - Thesis title: Integrating Perception, Prediction and Control for Adaptive Mobile Navigation
-        - Advisor: Professor Greg Hager
+        - "Thesis title: Integrating Perception, Prediction and Control for Adaptive Mobile Navigation"
+        - "Advisor: Professor Greg Hager"
     - title: MS, Electrical Engineering
       institution: Columbia University, New York, NY
     - title: BS, Computer Science
