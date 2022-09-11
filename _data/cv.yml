@@ -41,16 +41,19 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Robotics/Perception
+    - title: Robotics
       items: 
         - High Speed Navigation
         - Manipulation in Clutter
         - Complex Terrain Navigation
+        - SLAM/Semantic Segmentation
+        - Rehabilitative Robotics
+    - title: Perception
+      items: 
         - Action Recognition
         - Domain Adaptation
         - Lifelong Learning
-    - 
-
+        - Vision Algorithms for Retinal Prosthetics
 - title: Other Interests
   type: list
   contents:
