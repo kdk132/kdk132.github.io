@@ -14,9 +14,9 @@ profile:
     <p>11100 Johns Hopkins Road</p>
     <p>Laurel, MD 20723</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 I am a principal research scientist at Johns Hopkins University Applied Physics Lab and an assistant research professor in the computer science department at Johns Hopkins University. My research lies in the intersection of robotics, perception and machine learning. In particular, I am interested in complex terrain navigation, high speed navigation, navigation in pedestrian-rich environments, activity recognition and manipulation in clutter. I can be contacted at kkatyal2@jhu.edu.
