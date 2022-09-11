@@ -222,7 +222,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: Katyal
-  first_name: [Kapil, K.]
+  first_name: [Kapil, K., Kapil D.]
 
   style: apa
   locale: en
