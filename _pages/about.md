@@ -8,7 +8,7 @@ profile:
   image: me.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Johns Hopkins University</p>
+    <p>Johns Hopkins University Applied Physics Lab</p>
     <p>Research and Exploratory Development Department</p>
     <p>201-412A</p>
     <p>11100 Johns Hopkins Road</p>
