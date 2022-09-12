@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: me.jpg
+  image: image.png
   image_circular: true # crops the image to make it circular
   address: >
     <p>Johns Hopkins University Applied Physics Lab</p>
